@@ -1,3 +1,23 @@
 .taskApp {
   /* Sample */
+   width: 100%;
+   height: max-content;
+   border: 1px solid red;
+   margin-top: 30px;
+}
+.taskapp{
+  width: 450px;
+  height: 600px;
+  margin: auto;
+  border: 1px solid black;
+  border-radius: 10px;
+}
+.head{
+  width: 100%;
+  height: 150px;
+  padding: 10px;
+  /* border: 1px solid red; */
+  text-align: center;
+  
+  background-color: #52bba7;
 }
